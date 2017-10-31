@@ -1,1 +1,1 @@
-hello World! This is Groovy.
+println 'Hello, World!'
